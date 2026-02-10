@@ -1,3 +1,9 @@
+datasets/
+my_test/
+runs/
+run_log/
+submissions/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

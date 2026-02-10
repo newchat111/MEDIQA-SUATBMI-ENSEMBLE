@@ -1,0 +1,12 @@
+checkpoints/
+data_json/
+Qwen2.5-VL-3B-Instruct/
+demo/
+eval
+output/
+train_logs/
+eval_result/
+runs/
+tools/test_script/test_pairs
+wandb
+qwen.txt

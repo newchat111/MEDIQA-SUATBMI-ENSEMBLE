@@ -1,0 +1,2256 @@
+[
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00885_00001.jpg"
+      }
+    ],
+    "key": "ENC00885"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00880_00001.jpeg"
+      }
+    ],
+    "key": "ENC00880"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00883_00001.jpg"
+      }
+    ],
+    "key": "ENC00883"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00902_00001.jpg"
+      }
+    ],
+    "key": "ENC00902"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00890_00001.jpg"
+      }
+    ],
+    "key": "ENC00890"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00898_00001.jpg"
+      }
+    ],
+    "key": "ENC00898"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00856_00001.jpg"
+      }
+    ],
+    "key": "ENC00856"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00903_00001.jpg"
+      }
+    ],
+    "key": "ENC00903"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00862_00001.jpg"
+      }
+    ],
+    "key": "ENC00862"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00876_00001.jpg"
+      }
+    ],
+    "key": "ENC00876"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00864_00001.jpg"
+      }
+    ],
+    "key": "ENC00864"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00893_00001.jpg"
+      }
+    ],
+    "key": "ENC00893"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00879_00001.jpg"
+      }
+    ],
+    "key": "ENC00879"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00861_00001.jpg"
+      }
+    ],
+    "key": "ENC00861"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00874_00001.jpg"
+      }
+    ],
+    "key": "ENC00874"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00887_00001.jpg"
+      }
+    ],
+    "key": "ENC00887"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00866_00001.jpg"
+      }
+    ],
+    "key": "ENC00866"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00868_00001.jpg"
+      }
+    ],
+    "key": "ENC00868"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00865_00001.jpg"
+      }
+    ],
+    "key": "ENC00865"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00875_00001.jpg"
+      }
+    ],
+    "key": "ENC00875"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00897_00001.jpg"
+      }
+    ],
+    "key": "ENC00897"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00888_00001.jpg"
+      }
+    ],
+    "key": "ENC00888"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00892_00001.jpg"
+      }
+    ],
+    "key": "ENC00892"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00905_00001.jpg"
+      }
+    ],
+    "key": "ENC00905"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00855_00001.jpg"
+      }
+    ],
+    "key": "ENC00855"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00858_00001.jpg"
+      }
+    ],
+    "key": "ENC00858"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00860_00001.jpg"
+      }
+    ],
+    "key": "ENC00860"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00886_00001.jpg"
+      }
+    ],
+    "key": "ENC00886"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00884_00001.jpg"
+      }
+    ],
+    "key": "ENC00884"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00853_00001.jpg"
+      }
+    ],
+    "key": "ENC00853"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00896_00001.jpg"
+      }
+    ],
+    "key": "ENC00896"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00907_00001.jpg"
+      }
+    ],
+    "key": "ENC00907"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00867_00001.jpg"
+      }
+    ],
+    "key": "ENC00867"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00852_00001.jpg"
+      }
+    ],
+    "key": "ENC00852"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00882_00001.jpg"
+      }
+    ],
+    "key": "ENC00882"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00881_00001.jpg"
+      }
+    ],
+    "key": "ENC00881"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00877_00001.jpg"
+      }
+    ],
+    "key": "ENC00877"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00878_00001.jpg"
+      }
+    ],
+    "key": "ENC00878"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00904_00001.jpg"
+      }
+    ],
+    "key": "ENC00904"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00872_00001.jpg"
+      }
+    ],
+    "key": "ENC00872"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00895_00001.jpg"
+      }
+    ],
+    "key": "ENC00895"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00870_00001.jpg"
+      }
+    ],
+    "key": "ENC00870"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00899_00001.jpg"
+      }
+    ],
+    "key": "ENC00899"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00859_00001.png"
+      }
+    ],
+    "key": "ENC00859"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00891_00001.jpg"
+      }
+    ],
+    "key": "ENC00891"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00894_00001.jpg"
+      }
+    ],
+    "key": "ENC00894"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00857_00001.jpg"
+      }
+    ],
+    "key": "ENC00857"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00863_00001.jpg"
+      }
+    ],
+    "key": "ENC00863"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00873_00001.jpg"
+      }
+    ],
+    "key": "ENC00873"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00854_00001.jpg"
+      }
+    ],
+    "key": "ENC00854"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00871_00001.jpg"
+      }
+    ],
+    "key": "ENC00871"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00889_00001.jpg"
+      }
+    ],
+    "key": "ENC00889"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00901_00001.jpg"
+      }
+    ],
+    "key": "ENC00901"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00900_00001.jpg"
+      }
+    ],
+    "key": "ENC00900"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00869_00001.jpg"
+      }
+    ],
+    "key": "ENC00869"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/derma/data/iiyi/images_final/images_valid/IMG_ENC00906_00001.jpg"
+      }
+    ],
+    "key": "ENC00906"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0308_0001.jpg"
+      }
+    ],
+    "key": "ENC0308"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0317_0001.jpg"
+      }
+    ],
+    "key": "ENC0317"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0323_0001.jpg"
+      }
+    ],
+    "key": "ENC0323"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0378_0001.jpeg"
+      }
+    ],
+    "key": "ENC0378"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0347_0001.jpg"
+      }
+    ],
+    "key": "ENC0347"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0374_0001.jpeg"
+      }
+    ],
+    "key": "ENC0374"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0298_0001.jpg"
+      }
+    ],
+    "key": "ENC0298"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0377_0001.jpeg"
+      }
+    ],
+    "key": "ENC0377"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0334_0001.jpg"
+      }
+    ],
+    "key": "ENC0334"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0370_0001.jpeg"
+      }
+    ],
+    "key": "ENC0370"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0373_0001.jpeg"
+      }
+    ],
+    "key": "ENC0373"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0310_0001.jpg"
+      }
+    ],
+    "key": "ENC0310"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0356_0001.jpeg"
+      }
+    ],
+    "key": "ENC0356"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0342_0001.jpg"
+      }
+    ],
+    "key": "ENC0342"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0369_0001.jpeg"
+      }
+    ],
+    "key": "ENC0369"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0309_0001.jpg"
+      }
+    ],
+    "key": "ENC0309"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0322_0001.jpg"
+      }
+    ],
+    "key": "ENC0322"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0341_0001.jpg"
+      }
+    ],
+    "key": "ENC0341"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0343_0001.jpg"
+      }
+    ],
+    "key": "ENC0343"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0326_0001.jpg"
+      }
+    ],
+    "key": "ENC0326"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0290_0001.jpg"
+      }
+    ],
+    "key": "ENC0290"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0358_0001.jpeg"
+      }
+    ],
+    "key": "ENC0358"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0364_0001.jpeg"
+      }
+    ],
+    "key": "ENC0364"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0318_0001.jpg"
+      }
+    ],
+    "key": "ENC0318"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0371_0001.jpeg"
+      }
+    ],
+    "key": "ENC0371"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0381_0001.jpeg"
+      }
+    ],
+    "key": "ENC0381"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0348_0001.jpg"
+      }
+    ],
+    "key": "ENC0348"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0362_0001.jpeg"
+      }
+    ],
+    "key": "ENC0362"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0312_0001.jpg"
+      }
+    ],
+    "key": "ENC0312"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0293_0001.jpg"
+      }
+    ],
+    "key": "ENC0293"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0383_0001.jpeg"
+      }
+    ],
+    "key": "ENC0383"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0287_0001.jpg"
+      }
+    ],
+    "key": "ENC0287"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0339_0001.jpg"
+      }
+    ],
+    "key": "ENC0339"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0299_0001.jpg"
+      }
+    ],
+    "key": "ENC0299"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0327_0001.jpg"
+      }
+    ],
+    "key": "ENC0327"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0325_0001.jpg"
+      }
+    ],
+    "key": "ENC0325"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0306_0001.jpg"
+      }
+    ],
+    "key": "ENC0306"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0289_0001.jpg"
+      }
+    ],
+    "key": "ENC0289"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0355_0001.jpeg"
+      }
+    ],
+    "key": "ENC0355"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0366_0001.jpeg"
+      }
+    ],
+    "key": "ENC0366"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0295_0001.jpg"
+      }
+    ],
+    "key": "ENC0295"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0340_0001.jpg"
+      }
+    ],
+    "key": "ENC0340"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0288_0001.jpg"
+      }
+    ],
+    "key": "ENC0288"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0380_0001.jpeg"
+      }
+    ],
+    "key": "ENC0380"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0329_0001.jpg"
+      }
+    ],
+    "key": "ENC0329"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0384_0001.jpeg"
+      }
+    ],
+    "key": "ENC0384"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0294_0001.jpg"
+      }
+    ],
+    "key": "ENC0294"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0282_0001.jpg"
+      }
+    ],
+    "key": "ENC0282"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0382_0001.jpeg"
+      }
+    ],
+    "key": "ENC0382"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0311_0001.jpg"
+      }
+    ],
+    "key": "ENC0311"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0291_0001.jpg"
+      }
+    ],
+    "key": "ENC0291"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0379_0001.jpeg"
+      }
+    ],
+    "key": "ENC0379"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0345_0001.jpg"
+      }
+    ],
+    "key": "ENC0345"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0328_0001.jpg"
+      }
+    ],
+    "key": "ENC0328"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0360_0001.jpeg"
+      }
+    ],
+    "key": "ENC0360"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0337_0001.jpg"
+      }
+    ],
+    "key": "ENC0337"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0324_0001.jpg"
+      }
+    ],
+    "key": "ENC0324"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0333_0001.jpg"
+      }
+    ],
+    "key": "ENC0333"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0344_0001.jpg"
+      }
+    ],
+    "key": "ENC0344"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0321_0001.jpg"
+      }
+    ],
+    "key": "ENC0321"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0365_0001.jpeg"
+      }
+    ],
+    "key": "ENC0365"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0349_0001.jpg"
+      }
+    ],
+    "key": "ENC0349"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0367_0001.jpeg"
+      }
+    ],
+    "key": "ENC0367"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0376_0001.jpeg"
+      }
+    ],
+    "key": "ENC0376"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0330_0001.jpg"
+      }
+    ],
+    "key": "ENC0330"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0357_0001.jpeg"
+      }
+    ],
+    "key": "ENC0357"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0375_0001.jpeg"
+      }
+    ],
+    "key": "ENC0375"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0305_0001.jpg"
+      }
+    ],
+    "key": "ENC0305"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0280_0001.jpg"
+      }
+    ],
+    "key": "ENC0280"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0297_0001.jpg"
+      }
+    ],
+    "key": "ENC0297"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0351_0001.jpg"
+      }
+    ],
+    "key": "ENC0351"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0283_0001.jpg"
+      }
+    ],
+    "key": "ENC0283"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0320_0001.jpg"
+      }
+    ],
+    "key": "ENC0320"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0286_0001.jpg"
+      }
+    ],
+    "key": "ENC0286"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0301_0001.jpg"
+      }
+    ],
+    "key": "ENC0301"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0350_0001.jpg"
+      }
+    ],
+    "key": "ENC0350"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0354_0001.jpeg"
+      }
+    ],
+    "key": "ENC0354"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0332_0001.jpg"
+      }
+    ],
+    "key": "ENC0332"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0353_0001.jpg"
+      }
+    ],
+    "key": "ENC0353"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0372_0001.jpeg"
+      }
+    ],
+    "key": "ENC0372"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0303_0001.jpg"
+      }
+    ],
+    "key": "ENC0303"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0363_0001.jpeg"
+      }
+    ],
+    "key": "ENC0363"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0352_0001.jpg"
+      }
+    ],
+    "key": "ENC0352"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0304_0001.jpg"
+      }
+    ],
+    "key": "ENC0304"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0307_0001.jpg"
+      }
+    ],
+    "key": "ENC0307"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0302_0001.jpg"
+      }
+    ],
+    "key": "ENC0302"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0285_0001.jpg"
+      }
+    ],
+    "key": "ENC0285"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0331_0001.jpg"
+      }
+    ],
+    "key": "ENC0331"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0359_0001.jpeg"
+      }
+    ],
+    "key": "ENC0359"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0314_0001.jpg"
+      }
+    ],
+    "key": "ENC0314"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0284_0001.jpg"
+      }
+    ],
+    "key": "ENC0284"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0292_0001.jpg"
+      }
+    ],
+    "key": "ENC0292"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0316_0001.jpg"
+      }
+    ],
+    "key": "ENC0316"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0315_0001.jpg"
+      }
+    ],
+    "key": "ENC0315"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0300_0001.jpg"
+      }
+    ],
+    "key": "ENC0300"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0336_0001.jpg"
+      }
+    ],
+    "key": "ENC0336"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0319_0001.jpg"
+      }
+    ],
+    "key": "ENC0319"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0346_0001.jpg"
+      }
+    ],
+    "key": "ENC0346"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0313_0001.jpg"
+      }
+    ],
+    "key": "ENC0313"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0281_0001.jpg"
+      }
+    ],
+    "key": "ENC0281"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0335_0001.jpg"
+      }
+    ],
+    "key": "ENC0335"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0368_0001.jpeg"
+      }
+    ],
+    "key": "ENC0368"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0361_0001.jpeg"
+      }
+    ],
+    "key": "ENC0361"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0338_0001.jpg"
+      }
+    ],
+    "key": "ENC0338"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are a senior expert in dermatology and woundcare. Now, I will provide you an image that contains either a skin disease or a wound. Your job is to give a clear, detailed explanation of what is in the image. You must state the name of the diseaseif the image is a skin disease, Include: lesion type (papule, plaque, etc.), color, distribution, and clinical signs, if anyif the image is a wound, Include: tissue type (granulation, slough, necrosis), infection signs (pus, redness), and edges, if any"
+      },
+      {
+        "type": "image",
+        "image": "/data/liyuan/datasets/competition/woundcare/dataset-challenge-mediqa-2025-wv/images_final/images_valid/IMG_ENC0296_0001.jpg"
+      }
+    ],
+    "key": "ENC0296"
+  }
+]
