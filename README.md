@@ -2,7 +2,6 @@
 
 This repository contains the end-to-end pipeline for the **MEDIQA 2026 Competition**. The workflow executes few-shot prompting using **QWEN30b**. 
 
-**this repo is a complete mess, sorry :( We will try to organize our code in the following days in a more user-friendly way, thank you!
 ---
 ## GETTING STARTED
 
@@ -25,4 +24,4 @@ The input file already has already been prepared. If you need to see the full pi
 
 ## OUR RESULTS
 
-Our prediction is submission.zip. This prediction is an ensemble of all the best models we've had so far, which is a combination of RAG, BERT, and few-shot. However, due to the limited time, runs/qwen30b-bootstrap/infer.sh contains the few-shot method only. We will push all of our codes in the following days if we have the chance to write the paper, which will probably be a new git repository.
+Our prediction is submission.zip. This prediction is an ensemble of all the best models we've had so far, which is a combination of RAG, BERT, and few-shot. However, due to the limited time, runs/qwen30b-bootstrap/infer.sh contains the few-shot method only. 
