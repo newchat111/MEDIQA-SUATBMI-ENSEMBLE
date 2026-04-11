@@ -14,7 +14,7 @@ git clone -b H100 git@github.com:newchat111/MEDIQA-MEDGEMMA.git
 2.download the model from huggingface Qwen/Qwen3-30B-A3B
 
 ## RUN THE SCRIPT
-To run the model, simply change the paths in the .sh file. You need to define the data paths and the model path. You only need to change the variables that has comments behind them.
+To run the model, simply change the paths in the .sh file. You need to define the data paths and the model path. You only need to change the variables that has comments after them.
 
 ```bash
 bash runs/qwen30b-bootstrap/infer.sh
