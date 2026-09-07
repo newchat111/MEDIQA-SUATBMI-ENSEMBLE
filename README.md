@@ -24,4 +24,4 @@ The input file has already been prepared. If you need to see the full pipeline, 
 
 ## OUR RESULTS
 
-Our prediction is submission.zip. This prediction is an ensemble of all the best models we've had so far, which is a combination of RAG, BERT, and few-shot. However, due to the limited time, runs/qwen30b-bootstrap/infer.sh contains the few-shot method only. 
+Our prediction is submission.zip. This prediction is an ensemble of all the best models we've had so far, which is a combination of RAG, BERT, and few-shot. However, due to the limited time we had in the competition, runs/qwen30b-bootstrap/infer.sh contains the few-shot method only. 
